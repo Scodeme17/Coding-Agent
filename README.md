@@ -32,7 +32,7 @@ A modern, feature-rich code editor with integrated AI coding assistance, built w
 
 ## 📸 Screenshots
 
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](image.png)
 *Main interface showing code editor, terminal, and AI assistant*
 
 
