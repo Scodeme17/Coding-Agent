@@ -1,6 +1,6 @@
 # Coding Assistance 
 
-A modern, feature-rich code editor with integrated AI coding assistance, built with Python and Tkinter. Designed to provide a VS Code-like experience with intelligent code completion, debugging support, and real-time AI assistance.
+A modern, feature-rich code editor with integrated AI coding assistance powered by Groq and Phidata. Built with Python and Tkinter, designed to provide a VS Code-like experience with intelligent code completion, debugging support, real-time AI assistance, and advanced code analysis.
 
 ## 🚀 Features
 
